@@ -1,5 +1,0 @@
-Kano;north,Hausa,Fulani
-Kaduna;north,Hausa
-Plateau;north,Berom,Hausa
-Lagos;south,Yoruba
-Enugu;south,Igbo
